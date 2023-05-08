@@ -1,2 +1,2 @@
-# WhoamI
+# Who-am-I
 My personal portfolio site
